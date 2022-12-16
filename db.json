@@ -1,0 +1,36 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "Fourth Article",
+      "content": "And Another example!",
+      "id": 4
+    }
+  ],  
+  "dogs": [
+    {
+        "id": 1,
+        "name": "Pancake",
+        "breed": "Aussie"
+    },
+    {
+        "id": 2,
+        "name": "Bindi",
+        "breed": "Border collie"
+    }
+]
+}
